@@ -59,7 +59,7 @@
         <protostuff.verison>1.5.3</protostuff.verison>
         <nengli.dubbo.verison>1.1.0</nengli.dubbo.verison>
 
-        <ignite.version>2.5.0</ignite.version>
+        <ignite.version>2.8.1</ignite.version>
         <swagger2.version>2.7.0</swagger2.version>
         <!-- test -->
         <junit.version>4.12</junit.version>
