@@ -44,7 +44,7 @@
         <validator.version>5.2.5.Final</validator.version>
         <javax.validation.version>2.0.1.Final</javax.validation.version>
 
-        <mysql.connnector.version>5.1.38</mysql.connnector.version>
+        <mysql.connnector.version>8.0.16</mysql.connnector.version>
         <querydsl.version>4.1.4</querydsl.version>
 
         <freemarker.version>2.3.23</freemarker.version>
